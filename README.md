@@ -1,4 +1,4 @@
-# PalmerPenguinData-Statistics
+# PalmerPenguinData-Statistics with R
 
 
 The dataset comprises 200 rows and 8 columns, which represent various variables. Out of these 8 variables:
